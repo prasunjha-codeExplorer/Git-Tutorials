@@ -1,1 +1,1 @@
-This is version of first git repository of mine buddy!
+This is version of first git repository of mine buddy in github!
